@@ -1,6 +1,6 @@
 ### Hi there, I'm Siwar M'SALLEM 👋
 
-🚀 **Full-Stack Developer & Computer Engineering Student**
+🚀 **Full-Stack Developer & Computer Engineering **
 
 I'm passionate about building scalable web applications with modern technologies. Currently studying at ESPRIT Engineering School and working on various web development projects.
 
